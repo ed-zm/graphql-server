@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "A graphQL server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ed-zm/graphql-server.git"
+  },
+  "keywords": [
+    "server",
+    "graphql",
+    "express"
+  ],
+  "author": "Eduardo Zarraga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ed-zm/graphql-server/issues"
+  },
+  "homepage": "https://github.com/ed-zm/graphql-server#readme"
+}
